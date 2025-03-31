@@ -37,7 +37,7 @@ def clear_fields():
 
 # Create main window
 root = tk.Tk()
-root.title("Modern Calculator")
+root.title("PLP Calculator")
 root.geometry("350x400")
 root.configure(bg="#2C3E50")
 
